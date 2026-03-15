@@ -19,8 +19,7 @@ Program to  Right Rotation LinkedList
 Developed by: Sri Yaline R
 RegisterNumber:  212224040325
 */
-```
-```
+
 import java.util.Scanner;
 public class RotateLinkedList {
         public static Node rotate(Node head, int k) {
