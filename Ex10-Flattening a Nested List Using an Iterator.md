@@ -18,8 +18,7 @@ Program to find Flattening a Nested List Using an Iterator
 Developed by: Sri Yaline R
 RegisterNumber:  212224040325
 */
-```
-```
+
 import java.util.*;
 public class NestedIterator implements Iterator<Integer> {
     private List<Integer> integers = new ArrayList<>();
